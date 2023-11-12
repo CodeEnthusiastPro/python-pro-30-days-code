@@ -1,0 +1,12 @@
+
+word1 = input("Enter the 1ST word: ")
+word2 = input("Enter the 2ND word: ")
+word3 = input("Enter the 3RD word: ")
+word4 = input("Enter the 4TH word: ")
+word5 = input("Enter the 5TH word: ")
+
+
+spacedsentence = f"{word1} {word2} {word3} {word4} {word5}."
+
+
+print("The sentence formed is:", spacedsentence)
